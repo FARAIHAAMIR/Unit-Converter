@@ -59,46 +59,55 @@ char continue_program: Character variable to determine if the user wants to perf
 5. Function Descriptions
 
 void displayMenu():
+
 Purpose: Displays the list of conversion categories to the user.
 Parameters: None.
 Return Value: None.
 
 void lengthConversion():
+
 Purpose: Handles length unit conversions based on user input.
 Parameters: None.
 Return Value: None.
 
 void temperatureConversion():
+
 Purpose: Manages temperature conversions.
 Parameters: None.
 Return Value: None.
 
 void timeConversion():
+
 Purpose: Converts between seconds, minutes, and hours.
 Parameters: None.
 Return Value: None.
 
 void weightConversion():
+
 Purpose: Manages weight conversions.
 Parameters: None.
 Return Value: None.
 
 void speedConversion():
+
 Purpose: Converts speed between kilometers/hour, miles/hour, and meters/second.
 Parameters: None.
 Return Value: None.
 
 void areaConversion():
+
 Purpose: Converts between area units.
 Parameters: None.
 Return Value: None.
 
 void angleConversion():
+
 Purpose: Converts between degrees, radians, and gradians.
 Parameters: None.
 Return Value: None.
 
 void numberSystemConversion():
+
 Purpose: Converts numbers between binary, decimal, hexadecimal, and octal.
 Parameters: None.
 Return Value: None.
@@ -119,9 +128,10 @@ Robust input validation to ensure accuracy.
 Efficient algorithms for unit conversion calculations.
 ---
 Group Members:
-
 Rida fatima
+
 Faraiha Amir
+
 Muhammad uzair
 ---
 7. Conclusion
