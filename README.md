@@ -1,9 +1,11 @@
 UNIT CONVERTER
+
+Course: Programming Fundamentals (CT-175) Section: B Department: BCIT
+
 ---
 Project Report
 
 1. Project Description
-
 The goal of this project is to develop a console-based Unit Converter application in C language. The program enables users to perform precise and efficient unit conversions across various categories, including length, temperature, time, weight, speed, area, angle, and number systems. This project demonstrates core programming concepts such as modular design, user-defined functions, conditional statements, loops, arrays, and efficient user interaction.
 ---
 2. Project Functionalities
@@ -57,61 +59,61 @@ Design a simple flowchart detailing the steps: Start -> Select Category -> Enter
 ---
 5. Function Descriptions
 
-1.void displayMenu():
+1. void displayMenu():
 
 Purpose: Displays the list of conversion categories to the user.
 Parameters: None.
 Return Value: None.
 
-2.void lengthConversion():
+2. void lengthConversion():
 
 Purpose: Handles length unit conversions based on user input.
 Parameters: None.
 Return Value: None.
 
-3.void temperatureConversion():
+3. void temperatureConversion():
 
 Purpose: Manages temperature conversions.
 Parameters: None.
 Return Value: None.
 
-4.void timeConversion():
+4. void timeConversion():
 
 Purpose: Converts between seconds, minutes, and hours.
 Parameters: None.
 Return Value: None.
 
-5.void weightConversion():
+5. void weightConversion():
 
 Purpose: Manages weight conversions.
 Parameters: None.
 Return Value: None.
 
-6.void speedConversion():
+6. void speedConversion():
 
 Purpose: Converts speed between kilometers/hour, miles/hour, and meters/second.
 Parameters: None.
 Return Value: None.
 
-7.void areaConversion():
+7. void areaConversion():
 
 Purpose: Converts between area units.
 Parameters: None.
 Return Value: None.
 
-8.void angleConversion():
+8. void angleConversion():
 
 Purpose: Converts between degrees, radians, and gradians.
 Parameters: None.
 Return Value: None.
 
-9.void numberSystemConversion():
+9. void numberSystemConversion():
 
 Purpose: Converts numbers between binary, decimal, hexadecimal, and octal.
 Parameters: None.
 Return Value: None.
 
-10.int main(void):
+10. int main(void):
 Purpose: Controls the flow of the program, including displaying menus, handling user input, and calling appropriate conversion functions.
 Return Value: 0 (Indicating successful execution).
 
@@ -129,6 +131,7 @@ Efficient algorithms for unit conversion calculations.
 ---
 
 Group Members:
+
 Rida fatima
 
 Faraiha Amir
